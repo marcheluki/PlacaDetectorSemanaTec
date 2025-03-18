@@ -14,7 +14,7 @@ Para instalar las dependencias, ejecuta:
 
 ```bash
 pip install opencv-python numpy matplotlib easyocr
-
+```
 ## Autores
 
 - **Marcela Beatriz de la Rosa Barrios** - A01637239  

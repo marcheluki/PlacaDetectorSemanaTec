@@ -1,0 +1,2 @@
+# PlacaDetectorSemanaTec
+SemanaTec
